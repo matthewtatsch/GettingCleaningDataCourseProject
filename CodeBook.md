@@ -24,8 +24,8 @@
 <dt>TimeBodyGyroscope-Mean-X-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the mean of the gyroscope's body signal along X-axis.</dd><dd>Values range from -1 to 1</dd><br>
 <dt>TimeBodyGyroscope-Mean-Y-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the mean of the gyroscope's body signal along Y-axis.</dd><dd>Values range from -1 to 1</dd><br>
 <dt>TimeBodyGyroscope-Mean-Z-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the mean of the gyroscope's body signal along Z-axis.</dd><dd>Values range from -1 to 1</dd><br>
-<dt>TimeBodyGyroscope-SD-X-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the standard deviation of the gyroscope's body signal along Z-axis.</dd><dd>Values range from -1 to 1</dd><br>
-<dt>TimeBodyGyroscope-SD-Y-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the standard deviation of the gyroscope's body signal along Z-axis.</dd><dd>Values range from -1 to 1</dd><br>
+<dt>TimeBodyGyroscope-SD-X-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the standard deviation of the gyroscope's body signal along X-axis.</dd><dd>Values range from -1 to 1</dd><br>
+<dt>TimeBodyGyroscope-SD-Y-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the standard deviation of the gyroscope's body signal along Y-axis.</dd><dd>Values range from -1 to 1</dd><br>
 <dt>TimeBodyGyroscope-SD-Z-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the standard deviation of the gyroscope's body signal along Z-axis.</dd><dd>Values range from -1 to 1</dd><br>
 <dt>TimeBodyGyroscopeJerk-Mean-X-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the mean of the gyroscope's body jerk signal along X-axis.</dd><dd>Values range from -1 to 1</dd><br>
 <dt>TimeBodyGyroscopeJerk-Mean-Y-Axis</dt><dd>Type: NUMERIC</dd><dd>Time domain. Average of the mean of the gyroscope's body jerk signal along Y-axis.</dd><dd>Values range from -1 to 1</dd><br>
